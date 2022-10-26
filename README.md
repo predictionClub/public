@@ -3,6 +3,9 @@
 
 The PredictionClub will continue to be updated here with public information and public resources.
 
+#### pitch deck
+PredictionClub pitch deck EN.pdf
+
 #### 1. help you get a quick and comprehensive understanding of PredictionClub.
 A Brief Introduction to PredictionClub_EN.pdf
 
